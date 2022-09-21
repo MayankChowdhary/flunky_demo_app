@@ -1,6 +1,6 @@
-# android_lyrics_player
+# Flutter_Flunkey_Task
 
-A music player in android with lyrics.
+This project contains: LoginScreen and Restaurant list screen
 
 ## Getting Started
 
